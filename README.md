@@ -21,6 +21,8 @@
 
 ### How to initialize/run your application
 
-* python3 caesar_cipher.py
+* python3 cipher.py
 
 ### Tests
+
+* [test_caesar.py](tests/test_caesar.py)
